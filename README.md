@@ -1,1 +1,1 @@
-# Agentic_Resume_Styler
+# Agentic Resume Styler
